@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: rest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: yo
+Implementation-Vendor-Id: ar.com.dag
+Build-Jdk: 1.8.0_60
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

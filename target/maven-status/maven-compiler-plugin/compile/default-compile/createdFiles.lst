@@ -1,0 +1,15 @@
+ar\com\dag\rest\statususer\StatusUserRepository.class
+ar\com\dag\rest\utils\AppContext.class
+ar\com\dag\rest\utils\GenericService.class
+ar\com\dag\rest\user\UserRepository.class
+ar\com\dag\rest\user\UserEntidad.class
+ar\com\dag\rest\city\CityRepository.class
+ar\com\dag\rest\statususer\StatusUserEntidad.class
+ar\com\dag\rest\utils\ServicePath.class
+ar\com\dag\rest\city\CityEntidad.class
+ar\com\dag\rest\user\UserService.class
+ar\com\dag\rest\AppMain.class
+ar\com\dag\rest\city\CityService.class
+ar\com\dag\rest\statususer\StatusUserService.class
+ar\com\dag\rest\utils\BaseEntidad.class
+ar\com\dag\rest\utils\ServiceMap.class
